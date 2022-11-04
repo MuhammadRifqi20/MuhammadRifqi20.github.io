@@ -105,6 +105,10 @@ table {
     margin-left: 1000px;
 }
 
+.navbar_item a {
+    display: inline-block;
+}
+
 .navbar_item, li {
     font-size: 17px;
     padding-right: 70px;
